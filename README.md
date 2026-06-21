@@ -58,15 +58,6 @@ I'm a Computer Science Specialist at the University of Toronto with a background
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vdesai17&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdesai17&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### Beyond Code
 
 ⚽ Ex-competitive footballer — AIFF-registered, Hero Sub Junior I-League semi-finalist, Karnataka State Team
