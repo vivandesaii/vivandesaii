@@ -32,7 +32,7 @@ class Vivan:
 **[finsnap](https://finsnap-six.vercel.app)**
 A full stack ML transaction classifier. Trained a scikit-learn MLP on 30,000 transactions across 3,333 merchants and 23 categories, hitting 88 percent weighted F1 accuracy. FastAPI and PostgreSQL backend with a feedback loop that retrains the model on user corrections, the same pattern used in production ML systems.
 
-**wealthlens**: in progress
+**bullpen**: in progress
 A portfolio tracking API built to mirror real fintech infrastructure. Redis caching for live price data, async trade processing, secure document delivery, and an AI driven analysis layer on top.
 
 <br>
