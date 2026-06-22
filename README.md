@@ -17,8 +17,8 @@ class Vivan:
     def __init__(self):
         self.based_in = ["Toronto, Canada", "Muscat, Oman"]
         self.degree = "B.Sc. Computer Science Specialist, University of Toronto, Class of 2028"
-        self.background = ["Business Intelligence @ Bank Muscat", "Senior Analyst @ TSIC"]
-        self.building_now = "WealthLens, a portfolio API with async trade processing and caching"
+        self.background = ["Business Intelligence & Capital Markets @ Bank Muscat", "Senior Analyst @ TSIC"]
+        self.building_now = "bullpen, a portfolio API with async trade processing and caching"
         self.interests = ["astrophysics", "football", "house music", "travel"]
 
     def get_in_touch(self):
